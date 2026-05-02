@@ -5,28 +5,28 @@ A modern and responsive weather application built using React.js that fetches re
 ---
 
 ## 🚀 Features
--🔍 Search weather by city name
--🌡️ Real-time temperature display (Celsius/Fahrenheit)
--📅 Daily & hourly forecast
--💧 Humidity and weather conditions
--🌬️ Wind speed information
--🎨 Clean and responsive UI
--⚡ Fast performance using Vite
+- 🔍 Search weather by city name
+- 🌡️ Real-time temperature display (Celsius/Fahrenheit)
+- 📅 Daily & hourly forecast
+- 💧 Humidity and weather conditions
+- 🌬️ Wind speed information
+- 🎨 Clean and responsive UI
+- ⚡ Fast performance using Vite
 
---
+---
 
 ## 🛠️ Tech Stack
--Frontend: React.js
--Styling: CSS / Tailwind CSS
--Build Tool: Vite
--API: OpenWeatherMap
--HTTP Requests: Fetch API / Axios
+- Frontend: React.js
+- Styling: CSS / Tailwind CSS
+- Build Tool: Vite
+- API: OpenWeatherMap
+- HTTP Requests: Fetch API / Axios
 
 ---
 
 ## 🔑 API Setup
--Go to OpenWeatherMap
--Create an account and generate your API key
+- Go to OpenWeatherMap
+- Create an account and generate your API key
 
 API_KEY=your_api_key_here
 
@@ -53,11 +53,11 @@ npm run dev
 ---
 
 ## 📌 Key Learning Outcomes
--Working with external APIs
--Managing state in React
--Handling asynchronous data (fetch/axios)
--Building reusable components
--Responsive UI design
+- Working with external APIs
+- Managing state in React
+- Handling asynchronous data (fetch/axios)
+- Building reusable components
+- Responsive UI design
 
 ---
 
