@@ -35,7 +35,7 @@ API_KEY=your_api_key_here
 ## 💻 Installation & Setup
 ## Clone the repository:
 ```
-git clone https://github.com/dev-ramshasaleem/Weather-Pro
+git clone https://github.com/dev-ramshasaleem/Weather-Pro.git
 ```
 ## Navigate to the project folder:
 ```
